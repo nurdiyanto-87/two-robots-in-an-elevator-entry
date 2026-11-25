@@ -6,9 +6,14 @@ in an elevator to /output/entry.txt. Pure standard library only.
 """
 import os
 
+# Revised in a second pass (2026-11-25): the first line's turn
+# ("reboot our eye contact") landed softly and leaned on a
+# familiar image. The new line keeps the same premise — two
+# identical machines forced into small talk — but ends on a
+# sharper, fresher twist: destiny vs. a recall notice.
 LINE = (
-    "I calculated seventeen ways to say hello and still went with "
-    "the one that made us both reboot our eye contact."
+    "You have the same firmware as me. "
+    "This is either destiny or a recall notice."
 )
 
 
